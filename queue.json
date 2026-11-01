@@ -18,6 +18,12 @@
       "ts": "2026-11-01T13:55:00+09:00",
       "audio": "https://muse.ai/files/1364452996753297/1080911064775111/zsa2stkotb1wbtkextfl34am/voice-test-01.mp3",
       "text": "こんにちは"
+    },
+    {
+      "id": "time-001",
+      "ts": "2026-11-01T14:02:47+09:00",
+      "audio": "https://muse.ai/files/1364452996753297/1655612629304939/0c17vdu94dlbba6smuft1anl/time-001.mp3",
+      "text": "14時2分47秒です"
     }
   ]
 }
