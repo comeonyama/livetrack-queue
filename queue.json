@@ -30,6 +30,12 @@
       "ts": "2026-11-01T14:03:17+09:00",
       "audio": "https://muse.ai/files/1364452996753297/1703356111194849/jvumz1rzad9rwnoj5pp02fjm/time-002.mp3",
       "text": "14時3分17秒です"
+    },
+    {
+      "id": "time-003",
+      "ts": "2026-11-01T14:03:47+09:00",
+      "audio": "https://muse.ai/files/1364452996753297/2424452234748955/ds7cx2z5mglkd22mddxrasml/time-003.mp3",
+      "text": "14時3分47秒です"
     }
   ]
 }
